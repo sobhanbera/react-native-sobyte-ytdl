@@ -1,6 +1,6 @@
 {
   "name": "@sobhanbera/react-native-sobyte-ytdl",
-  "version": "4.8.3",
+  "version": "1.0.0",
   "description": "YouTube video and audio stream extractor for react native. Now for sobyte.",
   "main": "index.js",
   "publishConfig": {
